@@ -1,7 +1,5 @@
 # Bank-Account-Tracker
 This Android application allows user to keep track of current balance in different bank accounts held by the user and the transactions of those accounts.\
-![0001](https://user-images.githubusercontent.com/75837374/154790561-e05b8fba-fb2e-4010-99cc-75cc82f2d312.jpg)
-
 The following are the major operations in this application. 
 1. List of bank accounts
 2. Adding new bank account
